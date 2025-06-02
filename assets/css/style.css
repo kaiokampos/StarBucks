@@ -226,3 +226,24 @@ header .line{
 }
 
 /* Fim da Area 4 */
+
+
+/* Inicio da Area 5 */
+.area5{
+     background-image: url(../images/bg4.jpg);
+     background-size: cover;
+    background-position: left;
+    height: 900px;
+}
+
+/* Fim da Area 5 */
+
+/* Inicio do Rodapé */
+footer{
+    background-color: #333;
+    color: #FFF;
+    padding: 80px;
+    text-align: center;
+}
+
+/* Fim do Rodapé */
